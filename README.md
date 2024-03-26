@@ -5,7 +5,7 @@ The All-In-One Card Project is a device created using ESP32 and an OLED display 
 
 ## Example
 
-![Card](Product.jpg)
+![Card](card.jpg)
 
 ## Features
 - Display images of different cards on demand.
