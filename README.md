@@ -3,6 +3,10 @@
 ## Introduction
 The All-In-One Card Project is a device created using ESP32 and an OLED display that allows users to display images of different cards uploaded to the device. This eliminates the need to carry multiple physical cards every day, providing convenience and efficiency.
 
+## Example
+
+![Product](Product.png)
+
 ## Features
 - Display images of different cards on demand.
 - Wireless control via Wi-Fi connection.
